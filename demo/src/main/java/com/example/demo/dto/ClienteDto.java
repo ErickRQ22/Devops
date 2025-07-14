@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class ClienteDto {
-
+ // atributos
     private String nombre;
     private String apellido;
     private String telefono;
